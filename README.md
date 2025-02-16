@@ -16,6 +16,7 @@ Features:
 Grade
 
 Grade: 17.57/20
+
 Commands
 
     q: Terminate the program.
